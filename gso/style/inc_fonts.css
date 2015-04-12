@@ -1,0 +1,48 @@
+/****************************************
+*                                       *
+*       Here you can include fonts      *
+*                                       *
+*****************************************/
+
+    @font-face {
+
+		font-family: 'noto';
+		font-style: normal;
+		font-weight: normal;
+		src: url('fonts/NotoSans-Regular.ttf');
+
+	}	
+	
+	@font-face {
+
+		font-family: 'Ubuntu-L';
+		font-style: normal;
+		font-weight: normal;
+		src: url('fonts/Ubuntu-L.ttf');
+
+	}
+	
+	@font-face {
+	
+		font-family: 'Open Sans-L';
+		font-style: normal;
+		font-weight: 300;
+		src: local('Open Sans Light'), local('OpenSans-Light'), url(fonts/OpenSans-Light) format('woff');
+	}
+	
+	@font-face {
+	
+		font-family: 'Open Sans';
+		font-style: normal;
+		font-weight: 400;
+		src: local('Open Sans'), local('OpenSans'), url(fonts/OpenSans-normal.woff) format('woff');
+		
+	}
+	@font-face {
+	
+		font-family: 'DroidKufi-Regular';
+		font-style: normal;
+		font-weight: 400;
+		src: url(fonts/DroidKufi-Regular.ttf);
+		
+	}
