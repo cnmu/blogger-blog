@@ -1,0 +1,46 @@
+/****************************************
+*                                       *
+*       Here you can include icons      *
+*                                       *
+*****************************************/
+
+    @font-face {
+
+		font-family: 'Material icons 1';
+		font-style: normal;
+		font-weight: normal;
+		src: url('icons/Material icons/Material icons 1.ttf');
+
+	}
+	@font-face {
+
+		font-family: 'Material icons 2';
+		font-style: normal;
+		font-weight: normal;
+		src: url('icons/Material icons/Material icons 2.ttf');
+
+	}
+	@font-face {
+
+		font-family: 'Material icons 3';
+		font-style: normal;
+		font-weight: normal;
+		src: url('icons/Material icons/Material icons 3.ttf');
+
+	}
+	@font-face {
+
+		font-family: 'Material icons 4';
+		font-style: normal;
+		font-weight: normal;
+		src: url('icons/Material icons/Material icons 4.ttf');
+
+	}
+	@font-face {
+
+		font-family: 'Material icons 5';
+		font-style: normal;
+		font-weight: normal;
+		src: url('icons/Material icons/Material icons 5.ttf');
+
+	}
